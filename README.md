@@ -58,7 +58,7 @@
         <br>
         https://github.com/didit-rnd
         <br>
-        https://github.com/didit-rnd/Single-Page-HTML-CV-Project
+        https://roadmap.sh/projects/single-page-cv
         </p>
 </body>
 </html>
