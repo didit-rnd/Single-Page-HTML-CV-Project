@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>single-page CV (Curriculum Vitae)</title>
+</head>
+<body>
+    <p>DIDIT RINALDI
+        <br>
+        <br>
+        Junior Fronted Developer
+        <br>
+        <br>
+        Dusun Ciboda RT 01/ RW 04,
+        <br>
+        Desa Conggeang Kulon, Kecamatan Conggeang
+        <br>
+        Sumedang, 45391
+        <br>
+        085295222326
+        <br>
+        ddtrinaldi@gmail.com
+        <br>
+        <br>
+        Skill
+        <br>
+        <br>
+        HTML, CSS, JavaScript, Accesibility, Figma to Design, Responsive Web Design, Technical Writing, Presentation
+        </p>
+</body>
+</html>
